@@ -28,6 +28,5 @@ Hi! 👋 I'm Brian, a passionate yet lazy developer who values **efficiency abov
 
 ## 🔗 Connect with me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=fff)](https://www.facebook.com/breeyanzxc)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/brian-rosario-8a65462a1)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=githubpages&logoColor=fff)](https://breeyanr.github.io/main.html)
