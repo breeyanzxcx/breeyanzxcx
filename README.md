@@ -50,11 +50,3 @@ A 3rd Year Information Technology major in System Development student at PHINMA 
     </td>
   </tr>
 </table>
-
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/brian-rosario-8a65462a1)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=githubpages&logoColor=fff)](https://breeyanr.github.io/main.html)
