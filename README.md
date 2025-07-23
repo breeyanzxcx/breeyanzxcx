@@ -1,6 +1,6 @@
-I am passionate yet lazy developer who values efficiency above all
+I am a passionate yet lazy developer who values efficiency above all.
 
-A 3rd Year Information Technology major in System Development student at PHINMA - University of Pangasinan 
+A 3rd Year Information Technology major in System Development student at PHINMA - University of Pangasinan
 
 ## 🛠 Tech Stack
 
@@ -28,6 +28,14 @@ A 3rd Year Information Technology major in System Development student at PHINMA 
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+      <br/>PHP
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
+      <br/>Laravel
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
       <br/>React
