@@ -2,7 +2,7 @@ I am passionate yet lazy developer who values efficiency above all
 
 A 3rd Year Information Technology major in System Development student at PHINMA - University of Pangasinan 
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
 <table>
   <tr>
@@ -27,26 +27,5 @@ A 3rd Year Information Technology major in System Development student at PHINMA 
       <br/>Python
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-      <br/>React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-      <br/>HTML
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-      <br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-      <br/>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-      <br/>GitHub
-    </td>
-  </tr>
+
 </table>
