@@ -33,7 +33,7 @@ A 3rd Year Information Technology major in System Development student at PHINMA 
       <br/>PHP
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" height="40" alt="Laravel"/>
       <br/>Laravel
     </td>
     <td align="center">
@@ -60,3 +60,4 @@ A 3rd Year Information Technology major in System Development student at PHINMA 
     </td>
   </tr>
 </table>
+
