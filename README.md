@@ -26,8 +26,6 @@ A 3rd Year Information Technology major in System Development student at PHINMA 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
       <br/>Python
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
       <br/>PHP
@@ -50,6 +48,10 @@ A 3rd Year Information Technology major in System Development student at PHINMA 
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind"/>
+      <br/>Tailwind
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
       <br/>Git
