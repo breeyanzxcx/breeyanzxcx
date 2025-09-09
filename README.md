@@ -25,14 +25,6 @@ I am a passionate yet lazy developer who values efficiency above all.
       <br/>Python
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-      <br/>PHP
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" height="40" alt="Laravel"/>
-      <br/>Laravel
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
       <br/>React
     </td>
