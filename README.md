@@ -1,4 +1,4 @@
-I am a passionate yet lazy developer who values efficiency above all.
+I am a developer who values efficiency above all.
 
 ## 🛠 Tech Stack & Tools
 
