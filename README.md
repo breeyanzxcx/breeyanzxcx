@@ -18,6 +18,5 @@ I am a developer who values efficiency above all.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   
 ## Contact me:
-📧 [rosariobrianrey@gmail.com](mailto:rosariobrianrey@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/breeyanzxc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-rosario-8a65462a1/)
