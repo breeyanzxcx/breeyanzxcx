@@ -3,7 +3,7 @@
 I am a developer who values efficiency above all.
 - 🎩 I'm currently learning **spec-kit** and **React**.
 - 🎲I'm accepting freelance work.
-- 💾 All of my projects are available on my **[Portfolio](https://portfolio-npvd.vercel.app/?fbclid=IwY2xjawO1SjdleHRuA2FlbQIxMABicmlkETFnRmxseU9UQ0g2M1dUOHpEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl8950tZITr1lV84bpRxThuKCzh-1rl-YIoUISjd7Lj7PrAQHqYlwEtzYuBj_aem_5Z-9Z3hM-sAlGPEu3rLxmw)**.
+- 💾 All of my projects are available on my **[Portfolio][(https://portfolio-npvd.vercel.app/?fbclid=IwY2xjawO1SjdleHRuA2FlbQIxMABicmlkETFnRmxseU9UQ0g2M1dUOHpEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl8950tZITr1lV84bpRxThuKCzh-1rl-YIoUISjd7Lj7PrAQHqYlwEtzYuBj_aem_5Z-9Z3hM-sAlGPEu3rLxmw)](https://portfolio-vv1-77gaf42li-brians-projects-9f5ba962.vercel.app/)**.
 
 ## Tech stack & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
