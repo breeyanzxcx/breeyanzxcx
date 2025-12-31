@@ -1,9 +1,9 @@
 # Hi, I'm Brian.
 
 a developer who values efficiency above all.
-- 🎩 I'm currently learning **spec-kit** and **React**.
-- 🎲 I'm accepting freelance work.
-- 💾 All of my projects are available on my **[Portfolio](https://portfolio-vv1-77gaf42li-brians-projects-9f5ba962.vercel.app/)**.
+- I'm currently learning **spec-kit** and **React**.
+- I'm open to any freelance work.
+- All of my projects are available on my **[Portfolio](https://portfolio-vv1-77gaf42li-brians-projects-9f5ba962.vercel.app/)**.
 
 ## Tech stack & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
