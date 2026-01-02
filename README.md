@@ -1,8 +1,8 @@
 # Hi, I'm Brian.
 
 a developer who values efficiency above all.
-- I'm currently learning **spec-kit** and **React**.
-- I'm open to any freelance work.
+- I am currently learning **spec-kit** and **React**.
+- I am open to any freelance work.
 - All of my projects are available on my **[Portfolio](https://portfolio-vv1-77gaf42li-brians-projects-9f5ba962.vercel.app/)**.
 
 ## Tech stack & Tools:
@@ -15,6 +15,7 @@ a developer who values efficiency above all.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   
