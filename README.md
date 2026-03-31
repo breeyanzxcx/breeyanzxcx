@@ -3,7 +3,7 @@
 a developer who values efficiency above all.
 - I am currently learning **spec-kit** and **React**.
 - I am open to any freelance work.
-- All of my projects are available on my **[Portfolio]((https://vercel.com/brians-projects-9f5ba962/portfolio-vv1))**.
+- All of my projects are available on my **[Portfolio](https://vercel.com/brians-projects-9f5ba962/portfolio-vv1)**.
 
 ## Tech stack & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
