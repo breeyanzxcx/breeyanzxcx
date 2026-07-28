@@ -1,7 +1,8 @@
 # Hi, I'm Brian.
 
 a developer who values efficiency above all.
-- I am currently learning **spec-kit** and **React**.
+i build modern web & mobile applications that users use to solve their problems.
+- I am currently learning **spec-kit**.
 - I am open to any freelance work.
 - All of my projects are available on my **[Portfolio](https://portfolio-vv1.vercel.app/)**.
 
