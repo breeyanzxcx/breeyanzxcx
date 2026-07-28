@@ -1,6 +1,7 @@
 # Hi, I'm Brian.
 
 a developer who values efficiency above all.
+
 i build modern web & mobile applications that users use to solve their problems.
 - I am currently learning **spec-kit**.
 - I am open to any freelance work.
